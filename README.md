@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 🔭 I'm a graduate student from Fudan University
 🤔 I’m currently working on Out-of-Distribution Detection and Generalization
