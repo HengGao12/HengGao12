@@ -11,5 +11,4 @@
 - 🤔 I’m currently working on Out-of-Distribution Detection and Generalization
 - 📫 How to reach me: hgao22@m.fudan.edu.cn
 -->
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HengGao12&show_icons=true&theme=tokyonight" /> </div>
+![Heng Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=HengGao12&show_icons=true&theme=dracula)
