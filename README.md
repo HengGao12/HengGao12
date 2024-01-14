@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
-🔭 I'm a graduate student from Fudan University \
-🤔 I’m currently working on *Out-of-Distribution Detection* and *Generalization* \
+🔭 I'm a graduate student from Fudan University. \
+🤔 I’m currently working on **Out-of-Distribution Detection** and **Generalization**. \
 📫 How to reach me: hgao22@m.fudan.edu.cn
 
 <!--
