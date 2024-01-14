@@ -12,4 +12,4 @@
 - 📫 How to reach me: hgao22@m.fudan.edu.cn
 -->
 ![Heng Gao's GitHub stats](https://github-readme-stats.vercel.app/api?username=HengGao12&show_icons=true&theme=radical)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=codeacg=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/HengGao12/=green&right_color=red)
